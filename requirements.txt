@@ -1,0 +1,8 @@
+pdfplumber
+nltk
+scikit-learn
+transformers
+torch
+spacy
+pandas
+numpy
