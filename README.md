@@ -52,9 +52,9 @@ Project Structure
 
 | `style.css`        | Custom CSS styling                 |
 
-| `packages.txt`     | Optional system dependencies       |
+| `packages.txt`     | System dependencies                |
 
-| `.env`             | (Optional) Store API keys securely |
+| `.env`             | Store API keys securely            |
 
 | `README.md`        | Project documentation              |
 
